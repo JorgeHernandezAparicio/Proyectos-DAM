@@ -1,0 +1,26 @@
+# Archivos de compilación de Java
+*.class
+*.log
+*.jar
+*.war
+
+# Carpetas de salida de IDEs
+bin/
+out/
+build/
+target/
+
+# Configuraciones de IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Configuraciones de Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
